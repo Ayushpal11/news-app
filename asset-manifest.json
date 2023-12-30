@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ayushpalpal11.github.io/news-app/static/css/main.eea71c97.css",
+    "main.js": "/ayushpalpal11.github.io/news-app/static/js/main.15665217.js",
+    "static/media/cnn-logo.png": "/ayushpalpal11.github.io/news-app/static/media/cnn-logo.9993ad2e3e4984b0dda1.png",
+    "static/media/lens.png": "/ayushpalpal11.github.io/news-app/static/media/lens.32d053d51f04fc9ccbe4.png",
+    "static/media/menu.jpg": "/ayushpalpal11.github.io/news-app/static/media/menu.6d87f53d3ad1ddaa6d23.jpg",
+    "static/media/cnn.png": "/ayushpalpal11.github.io/news-app/static/media/cnn.270d381e5e0a832a6819.png",
+    "index.html": "/ayushpalpal11.github.io/news-app/index.html",
+    "main.eea71c97.css.map": "/ayushpalpal11.github.io/news-app/static/css/main.eea71c97.css.map",
+    "main.15665217.js.map": "/ayushpalpal11.github.io/news-app/static/js/main.15665217.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eea71c97.css",
+    "static/js/main.15665217.js"
+  ]
+}
